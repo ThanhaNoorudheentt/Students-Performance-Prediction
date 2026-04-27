@@ -9,3 +9,4 @@ The primary objective of this project is to build a reliable model that can clas
 
 # Dataset
 
+The project uses the UCI Student Performance dataset, which contains detailed information about students’ academic and personal backgrounds. 
