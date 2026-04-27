@@ -9,4 +9,4 @@ The primary objective of this project is to build a reliable model that can clas
 
 # Dataset
 
-The project uses the UCI Student Performance dataset, which contains detailed information about students’ academic and personal backgrounds. The dataset includes features such as age, gender, study time, attendance records, previous grades, and various family and social factors. These attributes collectively help in understanding patterns that influence student performance.
+The project uses the UCI Student Performance dataset, which contains detailed information about students’ academic and personal backgrounds. The dataset includes features such as age, gender, study time, attendance records, previous grades, and various family and social factors.
