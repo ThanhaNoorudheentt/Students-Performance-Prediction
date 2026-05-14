@@ -73,4 +73,4 @@ Make sure `models/best_model.pkl` and `models/label_encoder.pkl` exist. If not, 
 
 ## Live App
 
-🔗 [Add your Streamlit Cloud link here](https://streamlit.io)
+🔗 https://students-performance-prediction-baeru4yals7asbqmkhvba8.streamlit.app/
